@@ -52,7 +52,7 @@
 <a href="https://twitter.com/okyay_eda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="okyay_eda" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/eda-okyay-b30b56b4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eda-okyay" height="30" width="30" /></a>
 <a href="https://codepen.io/eda-okyay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="eda-okyay" height="30" width="30" /></a>
-<a href="https://mail.yandex.com.tr" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mailto:edaokyay@yandex.com" height="30" width="30"/> </a>
+<a href="https://mail.google.com/.tr" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mailto:edaokyay58@gmail.com" height="30" width="30"/> </a>
 
 </p>
 </p>
