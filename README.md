@@ -17,9 +17,9 @@
 ### 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
+![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=c#)
 ![Delphi](https://img.shields.io/badge/-Delphi-05122A?style=flat&logo=delphi)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=C Sharp)
 ![Visualbasic](https://img.shields.io/badge/-Visualbasic-05122A?style=flat&logo=Visualbasic%2B%2B&logoColor=00599C)
 
 - 🌐 &nbsp;
