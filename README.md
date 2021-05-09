@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning React Native - Node.js - Next.js
 - 🤔 I’m looking for help with Find Job
 - 😄 Pronouns: Mrs.
--  📫 Contact me at edaokyay@yandex.com 
+-  📫 Mail: edaokyay@yandex.com 
 
 
 
